@@ -304,6 +304,11 @@ h3{
 }
 
 /* ケース */
+#cases{
+  margin: 40px 0 40px 0;
+  width: 100%;
+}
+
 ul{
   display: flex;
   list-style: none;
